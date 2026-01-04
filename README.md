@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -67,8 +66,6 @@
 <body>
     <h1>¡Únete a Silent Leyends en Roblox!</h1>
     <p>Somos un clan amigable jugamos variedad de juegos activos !</p>
-    
-    <img src="https://example.com/tu-imagen-del-clan.png" alt="Imagen del Clan" width="400"> <!-- Reemplaza con una URL real de tu imagen o logo -->
     
     <section>
         <h2>¿Por Qué Unirte a Nuestro Clan?</h2>
